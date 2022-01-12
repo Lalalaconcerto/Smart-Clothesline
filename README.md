@@ -2,7 +2,7 @@
 
 Xiaoling la
 
-GITHUB REPO PATH : <https://github.com/Lalalaconcerto/Automatic-clothesline-system>
+GITHUB REPO PATH : https://github.com/Lalalaconcerto/Smart-Clothesline
 
 ## Project Context
 
@@ -37,7 +37,7 @@ Busy workers, solitary, anyone who wants to’ free their hands’, weather obse
 
 #### Video
 
-Youtube path:
+Youtube path:https://www.youtube.com/watch?v=K7yybJX7C_Y
 
 #### Components and supplies
 
@@ -172,7 +172,7 @@ In addition, more functions could be added to monitor the condition of clothes m
 
 ‘bool’[10], as a data type, can hold one of two values, true or false. An important variable called ‘raindetected’ is defined in the type of ‘bool’. Its change can terminate the current loop and make it jump to other loops. This solves the problem that the motor rotates intermittently. The logic of this is shown in the [design diagram](#_2.6_Design_diagram). 
 
-The application of H-bridge is important, which is explained in 2.6.
+The application of H-bridge is important, which is explained in 3.1.
 
 This project requires two pulleys with different coefficients of friction to rotate the clothesline, which is difficult to operate and it is easy to happen that the clothesline is stuck and cannot follow the rotation of the pulley. Though rubber bands can increase friction very well, using two motors to rotate in the same direction will solve this problem and make the clothesline move more smoothly.
 
